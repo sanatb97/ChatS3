@@ -22,9 +22,9 @@ Check that python3 and tkinter library are installed in your PC.
 
 # Technology Stack:
 <i>Front end:</i>
-1. Tkinter
-2. Python
+1. Tkinter <br>
+2. Python <br>
 <i>Backend:</i>
-1. Python
-2. Socket 
+1. Python <br>
+2. Socket <br>
 
