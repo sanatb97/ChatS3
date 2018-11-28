@@ -8,7 +8,7 @@ A simple whatsapp like chat app in python.
 
 
 # Execution steps:
-0. Check that python3 and tkinter library are installed in your PC.
+Check that python3 and tkinter library are installed in your PC.
 
 # a. Server side
 1. Open new Terminal.
@@ -21,10 +21,10 @@ A simple whatsapp like chat app in python.
 
 
 # Technology Stack:
-# Front end:
+<i>Front end:</i>
 1. Tkinter
 2. Python
-# Backend:
+<i>Backend:</i>
 1. Python
 2. Socket 
 
