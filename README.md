@@ -1,14 +1,9 @@
 # ChatS3
 
-
-A simple whatsapp like chat app in python.
-
-
-
-
+A simple WhatsApp like chat application in Python.
 
 # Execution steps:
-Check that python3 and tkinter library are installed in your PC.
+Check that python3 and tkinter library are installed in your computer.
 
 # a. Server side
 1. Open new Terminal.
@@ -18,13 +13,11 @@ Check that python3 and tkinter library are installed in your PC.
 1. Run $python3 client.py
 2. Enter the IP address of server when asked in terminal.
 
-
-
 # Technology Stack:
-<i>Front end:</i>
-1. Tkinter <br>
-2. Python <br>
-<i>Backend:</i>
-1. Python <br>
-2. Socket <br>
+# Front end:
+1. Tkinter
+2. Python 
+# Backend:
+1. Python 
+2. Socket 
 
